@@ -110,6 +110,8 @@ if __name__ == "__main__":
     encrypted = encrypt(phrase, 10)
     actual = crack(encrypted)
     print(actual)
+  
+  test_crack_phrase()
 
 
 
