@@ -6,6 +6,7 @@
 
 ## Pull Request:
 [Pull Request 12-22-21](https://github.com/spamuelranek/caesar-cipher/pull/1)
+[Pull Request 12-26-21](https://github.com/spamuelranek/caesar-cipher/pull/2)
 
 ## How to use:
 - encrypt will take in a string with a integer for shifting
